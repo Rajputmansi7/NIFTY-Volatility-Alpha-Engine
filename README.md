@@ -1,3 +1,4 @@
+![CI](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/python-ci.yml/badge.svg)
 # NIFTY Quant Hedge Fund Alpha Engine
 
 Institutional-grade options analytics platform for NIFTY derivatives using live NSE data, volatility regime detection, ML forecasting, and professional strategy backtesting.
