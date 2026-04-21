@@ -104,22 +104,6 @@ Automatically allocates suitable options strategies:
 
 ---
 
-## Screenshots
-
-### Main Dashboard
-
-![Dashboard](assets/dashboard_main.png)
-
-### Performance Analytics
-
-![Backtest](assets/backtest_metrics.png)
-
-### Option Chain Heatmap
-
-![Heatmap](assets/oi_heatmap.png)
-
----
-
 ## Repository Structure
 
 ```text
